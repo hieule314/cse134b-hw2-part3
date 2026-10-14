@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320" viewBox="0 0 480 320">
+  <title>Personal portrait placeholder</title>
+  <desc>A labeled empty frame reserving space for Hieu Le's actual portrait.</desc>
+  <rect x="1" y="1" width="478" height="318" fill="white" stroke="black" />
+  <text x="240" y="148" text-anchor="middle" font-size="24">Personal portrait</text>
+  <text x="240" y="184" text-anchor="middle" font-size="18">Hieu Le photo to add</text>
+</svg>
