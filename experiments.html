@@ -16,7 +16,7 @@
 <body>
   <a href="#main-content">Skip to main content</a>
   <header>
-    <p>Hieu Le — personal portfolio</p>
+    <p>Hieu Le</p>
     <nav aria-label="Main navigation">
       <ul>
         <li><a href="index.html">Home</a></li>
@@ -89,7 +89,6 @@
         <p>The court drawing needs JavaScript. It consists of a green rectangle
           with a white outline and center line.</p>
       </noscript>
-      <!-- The rubric permits a small canvas script; this example uses 12 lines. -->
       <script>
         const court = document.getElementById('court-canvas').getContext('2d');
         if (court) {
@@ -227,7 +226,6 @@
       <noscript>
         <p>The console greeting requires JavaScript.</p>
       </noscript>
-      <!-- This script is limited to the rubric's console-message custom element. -->
       <script>
         customElements.define('hello-world', class extends HTMLElement {
           connectedCallback() {
@@ -243,8 +241,8 @@
         template. Its contents are inert and do not appear on the page.</p>
       <template id="project-entry-template">
         <article>
-          <h3>Project name</h3>
-          <p>A brief project description goes here.</p>
+          <h3>Reg2Schedg</h3>
+          <p>A course-planning platform that converts schedule screenshots into structured data.</p>
         </article>
       </template>
     </section>
