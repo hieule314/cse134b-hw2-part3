@@ -123,6 +123,31 @@
       </figure>
     </section>
 
+    <section aria-labelledby="mathml-heading">
+      <h2 id="mathml-heading">MathML: mass–energy equivalence</h2>
+      <p>Einstein's equation relates energy to mass:</p>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"
+        aria-label="E equals m c squared">
+        <mi>E</mi>
+        <mo>=</mo>
+        <mi>m</mi>
+        <msup>
+          <mi>c</mi>
+          <mn>2</mn>
+        </msup>
+      </math>
+      <p>Here, <var>E</var> is energy, <var>m</var> is mass, and
+        <var>c</var> is the speed of light in a vacuum.</p>
+      <p>Being part of the HTML standard did not guarantee that every browser
+        implemented MathML. Firefox supported it for years, but support across
+        browsers was inconsistent. Chrome briefly supported it in version 24,
+        then removed it because of instability; support returned in version 109.
+        Internet Explorer never supported it. This meant developers could not
+        rely on native MathML to display equations for all visitors and often
+        needed images or JavaScript rendering libraries instead.</p>
+      <p>Source: <a href="https://caniuse.com/mathml">Can I use: MathML browser support</a>.</p>
+    </section>
+
     <section aria-labelledby="dialog-heading">
       <h2 id="dialog-heading">Native dialog</h2>
       <p>Open a modal window, then close it using the button or the Escape key.</p>
