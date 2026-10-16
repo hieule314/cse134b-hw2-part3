@@ -3,5 +3,4 @@
   <desc>A labeled empty frame reserving space for a real photo of Hieu Le's dog.</desc>
   <rect x="1" y="1" width="478" height="318" fill="white" stroke="black" />
   <text x="240" y="148" text-anchor="middle" font-size="24">My dog</text>
-  <text x="240" y="184" text-anchor="middle" font-size="18">Dog photo to add</text>
 </svg>

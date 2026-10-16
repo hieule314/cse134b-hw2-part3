@@ -3,5 +3,4 @@
   <desc>A labeled empty frame reserving space for a real photo of Hieu Le playing badminton.</desc>
   <rect x="1" y="1" width="478" height="318" fill="white" stroke="black" />
   <text x="240" y="148" text-anchor="middle" font-size="24">Playing badminton</text>
-  <text x="240" y="184" text-anchor="middle" font-size="18">Hobby photo to add</text>
 </svg>
